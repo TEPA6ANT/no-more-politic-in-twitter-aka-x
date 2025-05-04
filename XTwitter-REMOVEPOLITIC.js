@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Удаляет вкладку "Что происходит" и кнопку "Обзор" из X/Twitter
-// @author       TEPA6ANT and Perplexy AI
+// @author       TEPA6ANT and Perplexity AI
 // @match        https://twitter.com/*
 // @match        https://x.com/*
 // @grant        none
